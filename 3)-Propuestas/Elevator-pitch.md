@@ -8,3 +8,6 @@ https://youtu.be/tHaE0MrQgwU
 ## Pablo Daniel Méndez Solórzano
 ## 202504736
 https://youtu.be/bwvy-B-N6oY
+## Cristian Josué Cabrera Elias
+## 202505098
+https://youtu.be/fNw7ZM1hqL8
