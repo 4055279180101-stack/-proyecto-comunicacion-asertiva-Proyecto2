@@ -6,4 +6,5 @@ No logramos obetener la segunda entrevista lo rapido como nos hubiera gustado y 
 ## Informacion
 Llegamos a la conlcusion que la primer entrevista fue mucho mas directa y ademas duraba el doble que la segunda por eso la elegimos principalemnte por la amplia informacion que el entrevistador (Luis Pedro Medina Orozco) logro obtener y asi se no hizo mas facil que objetivos tendriamos en la discusion y que soluciones teniamos para eso.
 
-##
+## Fechas
+Debido a que la primera entrevista salio mas rapido
