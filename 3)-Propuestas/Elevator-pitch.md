@@ -10,6 +10,7 @@ Este elevator pitch presenta una propuesta de solución tecnológica para una li
 https://youtu.be/tHaE0MrQgwU
 ## Pablo Daniel Méndez Solórzano
 ## 202504736
+En este pitch se presenta un problema detectado en la librería, que es la falta de agilidad en las tareas diarias, y una propuesta para mejorar la organización del trabajo.
 https://youtu.be/bwvy-B-N6oY
 ## Cristian Josué Cabrera Elias
 ## 202505098
