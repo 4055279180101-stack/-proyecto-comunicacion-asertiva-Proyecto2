@@ -12,8 +12,7 @@ El sistema se enfoca en:
 ---
 
 ## Diagrama
-<img width="484" height="790" alt="image" src="https://github.com/user-attachments/assets/f3754a79-44b4-4c9e-937a-e361fc09fd22" />
-
+<img width="1072" height="669" alt="image" src="https://github.com/user-attachments/assets/103acb13-3136-444f-a57d-ca07feb01886" />
 
 ---
 
