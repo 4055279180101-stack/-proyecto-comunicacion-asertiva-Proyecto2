@@ -19,3 +19,6 @@ https://youtu.be/fNw7ZM1hqL8
 ## 202505534
 El problema principal de la librería es la falta de alamacenamiento y la falta de personal lo que hace que la calidad del producto caiga como su prestigio.
 https://youtu.be/9JVrNQZ4uFI?si=NNCRtqfWMlKrzzd0
+## 202505232 
+Propuesta dada por Angel Ruiz, 202505232 para solucionar los problemas de la libreria que se tienen actualemente.
+https://youtu.be/_xnQ38VaCfY
