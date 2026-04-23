@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto2=self.webpackChunkproyecto2||[]).push([["2260"],{2283(o){o.exports=JSON.parse('{"metadata":{"permalink":"/4055279180101-stack/-proyecto-comunicacion-asertiva-Proyecto2/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

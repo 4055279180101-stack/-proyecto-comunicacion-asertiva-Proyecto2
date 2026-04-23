@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto2=self.webpackChunkproyecto2||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/4055279180101-stack/-proyecto-comunicacion-asertiva-Proyecto2/blog","blogTitle":"Blog","authorsListPath":"/4055279180101-stack/-proyecto-comunicacion-asertiva-Proyecto2/blog/authors"}')}}]);
