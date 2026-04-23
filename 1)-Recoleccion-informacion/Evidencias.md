@@ -14,5 +14,8 @@ https://youtu.be/9fbRIWwE6r4
  ## Elevator Pitch
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf8eea07-1412-4e87-8bfa-b319a0496e39" />
 
- # #Grabación
+ ## Grabación
  <img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/27f81cad-8c16-4c49-9979-f5be133e806a" />
+
+# Trello completo
+<img width="1910" height="976" alt="image" src="https://github.com/user-attachments/assets/c1e38b12-4fbe-4529-a8db-3050ffc67a52" />
