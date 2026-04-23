@@ -61,9 +61,26 @@ https://trello.com/invite/b/69dfdafd94e5067395c98b96/ATTI37d9c70226da8faf18ef79f
 
 ## 👥 Integrantes
 
+Sebastián Alejandro Estrada Martínez
+202505125
+
+Bryan Noé Vásquez Espinoza
+202505114
+
+Pablo Daniel Méndez Solórzano
+202504736
+
+Cristian Josué Cabrera Elias
+202505098
+
+Luis Pedro Medina Orozco
+202505534
+
+Angel Daniel Ruiz Ramos
+202505232
 
 ---
 
-- Junta directiva: (link)  
+- Junta directiva: https://youtu.be/4PuZC-SJqwI  
 
 ---
