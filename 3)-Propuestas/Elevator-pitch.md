@@ -6,6 +6,7 @@ En este negocio el principal problema es que se pierde tiempo saliendo a comprar
 https://youtu.be/HKzRVBlzOQM
 ## Bryan Noé Vásquez Espinoza
 ## 202505114
+Este elevator pitch presenta una propuesta de solución tecnológica para una librería y papelería de conveniencia, la cual enfrenta problemas en la gestión de pedidos e inventario debido al uso de múltiples canales y procesos manuales. La propuesta consiste en el desarrollo de un sistema digital que centralice la información, optimice la operación del negocio y mejore la atención al cliente, permitiendo un crecimiento más organizado y eficiente.
 https://youtu.be/tHaE0MrQgwU
 ## Pablo Daniel Méndez Solórzano
 ## 202504736
